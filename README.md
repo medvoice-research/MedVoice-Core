@@ -1,6 +1,7 @@
 # MedVoice Core System
 
 MedVoice is an AI-powered healthcare documentation system that automatically generates clinical documentation from doctor-patient conversations.
+**This project will be archived until I have done research local OpenAI-compatible LMStudio integration**
 
 ## Project Demo
 
